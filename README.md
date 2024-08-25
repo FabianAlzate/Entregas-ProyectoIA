@@ -1,2 +1,14 @@
 # Entrega1-ProyectoIA
 Prueba  - Proyecto entrega 1
+
+FABIAN ESTEBAN ALZATE BERNAL
+c.c 1020485465
+Ingenieria Electrica 
+
+ADRIAN ESPINOSA MONTOYA
+c.c 1026131603
+Ingenieria de Soistemas
+
+MARIA jOSE CARMONA PAMPLONA
+c.c 1001014962
+Ingenieriaa Industrial 
