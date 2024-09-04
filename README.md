@@ -7,7 +7,7 @@ Ingenieria Electrica
 
 ADRIAN ESPINOSA MONTOYA
 c.c 1026131603
-Ingenieria de Soistemas
+Ingenieria de Sistemas
 
 MARIA JOSE CARMONA PAMPLONA
 c.c 1001014962
