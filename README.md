@@ -11,4 +11,4 @@ Ingenieria de Sistemas
 
 MARIA JOSE CARMONA PAMPLONA
 c.c 1001014962
-Ingenieriaa Industrial 
+Ingenieria Industrial 
