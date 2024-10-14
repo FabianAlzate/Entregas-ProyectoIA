@@ -7,4 +7,5 @@ ADRIAN ESPINOSA MONTOYA c.c 1026131603 Ingeniería de Sistemas
 
 MARIA JOSE CARMONA PAMPLONA c.c 1001014962 Ingeniería Industrial
 
+# Entrga 2
 Video Entrega 2: https://www.youtube.com/watch?v=tjW3ZMeXwE8
