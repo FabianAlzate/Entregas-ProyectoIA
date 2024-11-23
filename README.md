@@ -9,3 +9,6 @@ MARIA JOSE CARMONA PAMPLONA c.c 1001014962 Ingeniería Industrial
 
 # Entrega 2
 Video Entrega 2: https://www.youtube.com/watch?v=tjW3ZMeXwE8
+
+# Entrega Final
+Video Entrega final: https://www.youtube.com/watch?v=Fvdjol4mKcU
